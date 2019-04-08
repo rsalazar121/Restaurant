@@ -1,0 +1,25 @@
+
+#header{
+padding:25px;
+text-align:center;
+ background-color: #D3D3D3;
+}
+
+h1{
+	font-family: Calibri;
+}
+body{
+	font-family: Calibri;
+}
+
+
+
+
+#footer{
+  position: absolute;
+  bottom:0;
+  width:100%;
+  height: 70px;
+   background-color: #D3D3D3;
+  
+}
